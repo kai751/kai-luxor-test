@@ -1,0 +1,11 @@
+{
+    "platforms": [
+        {
+            "name": "Luxor",
+            "platform": "Luxor",
+            "ipAddr": "Your IP Address in the form of xxx.xxx.xxx.xxx",
+            "removeAccessories": "",
+            "removeAllAccessories": false
+        }
+    ]
+}
