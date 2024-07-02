@@ -1,7 +1,7 @@
 {
-    "name": "homebridge-luxor",
+    "name": "homebridge-luxor-kai",
     "version": "4.2.7",
-    "description": "Homebridge Plug-in for the FX Luminaire (Luxor) lighting controller ",
+    "description": "Homebridge Plug-in for the FX Luminaire (Luxor) lighting controller edited by kai",
     "main": "dist/index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,9 +18,9 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/tagyoureit/homebridge-luxor.git"
+        "url": "git://github.com/kai751/kai-luxor-test.git"
     },
-    "author": "Russ Goldin",
+    "author": "Kai Kelly",
     "license": "ISC",
     "dependencies": {
         "axios": "^0.27.2",
